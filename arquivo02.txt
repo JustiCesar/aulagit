@@ -2,3 +2,4 @@ segundo arquivo do GIT
 criado em 29/01/2021
 as 11:37.
 nova alteracao
+usando o git dentro do visual conde e nao for via bash
